@@ -10,3 +10,8 @@ Answer questions such as:
 - Find a 95% confidence interval for this Sales value (Q6) 
 - Use stepwise regression to develop the best model you can to predict store sales(Q8) 
 - Decide which variables been added in the prediction of sales model, and what is the p-value (Q15)
+
+
+
+
+
